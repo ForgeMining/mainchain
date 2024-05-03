@@ -1,3 +1,5 @@
+WIP: Litecoin implementation of drivechains.
+
 Mainchain is an implementation of Bitcoin that extends it with Drivechain capabilities.
 
 # Drivechain (BIPs 300+301)
